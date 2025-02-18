@@ -1,0 +1,38 @@
+.container{background-color: antiquewhite;
+margin:10px 10px 10px 10px;}
+
+.wraper{background-color: beige;}
+
+.point{background-color: white;}
+
+.hello{color:blueviolet;
+margin-left: 30px;}
+
+.name{margin-left: 30px;}
+
+.developer{color:red;
+text-decoration: underline;
+margin-left:30px;}
+
+.firstimg{ text-allign:left;
+    height:300px; width:400px;
+    border-radius: 10px 10px 10px 10px;
+display:block;}
+
+
+.lorem{font-style: italic;
+color:aqua;}
+
+
+.about{text-align: center;
+color:blue;}
+
+.button{color:green;}
+.dolor{color:rgb(255, 4, 234);
+font-style: italic;}
+
+
+.amet{color:rgb(95, 189, 95);
+font-style: oblique;}
+.image{border-radius: 500px 500px 500px 500px;}
+
